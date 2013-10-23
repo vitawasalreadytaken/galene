@@ -2,10 +2,7 @@
 
 **γαλήνη (galene)** is a very simple text editor for Linux and GTK. It clears away all distractions and makes you focus on the writing itself. It can have only one file open and displays it full screen. There are no buttons or user interface. Just you and your text.
 
-<a href="https://raw.github.com/ze-phyr-us/galene/master/screenshot.png">
-	<img alt="Screenshot of γαλήνη." width="500"
-	src="https://raw.github.com/ze-phyr-us/galene/master/screenshot.png" />
-</a>
+![Screenshot of γαλήνη.](https://raw.github.com/ze-phyr-us/galene/master/screenshot.png)
 
 Γαλήνη, or Galene, was a personification of calm sea in the ancient Greek mythology. That's how I like the blank sheet before me: calm, empty, waiting for words that will give it meaning.
 
