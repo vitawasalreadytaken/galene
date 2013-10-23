@@ -1,6 +1,6 @@
-# galene $Id: Output.py 22 2012-02-27 23:57:19Z zephyr $
-#
-# Copyright (c) 2012 Vita Smid <me@ze.phyr.us>
+# galene
+# 
+# Copyright (c) 2012-2013 Vita Smid <http://ze.phyr.us>
 
 class Output:
 	'''

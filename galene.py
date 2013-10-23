@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 #
-# γαλήνη (galene) $Id: galene.py 28 2012-05-04 12:15:12Z zephyr $
-# Copyright (c) 2012 Vita Smid <me@ze.phyr.us>
+# γαλήνη (galene) 
+# Copyright (c) 2012-2013 Vita Smid <http://ze.phyr.us>
 # Licensed under the terms of The MIT License. 
 
 

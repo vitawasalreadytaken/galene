@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
-# galene $Id: Window.py 28 2012-05-04 12:15:12Z zephyr $
+# galene 
 # 
-# Copyright (c) 2012 Vita Smid <me@ze.phyr.us>
+# Copyright (c) 2012-2013 Vita Smid <http://ze.phyr.us>
 
 import gtk, gtksourceview2, pygtk, pango
 import os, sys

@@ -1,6 +1,6 @@
-# galene $Id: __init__.py 23 2012-02-28 00:04:59Z zephyr $
+# galene
 # 
-# Copyright (c) 2012 Vita Smid <me@ze.phyr.us>
+# Copyright (c) 2012-2013 Vita Smid <http://ze.phyr.us>
 
 import gtk, gtksourceview2, pygtk, pango
 from Window import Window
